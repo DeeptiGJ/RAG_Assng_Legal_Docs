@@ -41,7 +41,7 @@ Store in FAISS or ChromaDB
 
 Run RAG using LangChain and an open-source LLM
 
-Evaluate using ROUGE, BLEU, and RAGAS metrics
+Evaluate using ROUGE and BLEU metrics
 
 Inspect low-performing examples and tune chunking/reranking
 
