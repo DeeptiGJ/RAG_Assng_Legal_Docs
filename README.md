@@ -17,11 +17,14 @@ This project demonstrates an end-to-end Retrieval-Augmented Generation (RAG) pip
 
 🧪 Evaluation of generated answers using:
 
+ROUGE-1
+
+ROUGE-2
+
 ROUGE-L
 
 BLEU
 
-RAGAS (Answer Relevancy, Faithfulness, Context Recall)
 
 
 🔧 Usage:
@@ -44,11 +47,13 @@ Inspect low-performing examples and tune chunking/reranking
 
 📉 Evaluation Metrics
 
-ROUGE-L: 0.1184
+Avg ROUGE-1: 0.2355
 
-BLEU: 0.0093
+Avg ROUGE-2: 0.0405
 
-RAGAS (context recall, faithfulness, answer relevancy): Included in notebook
+Avg ROUGE-L: 0.1051
+
+Avg BLEU:    0.0075
 
 # Future Enhancements
 Add streaming LLM output (LangChain tools)
