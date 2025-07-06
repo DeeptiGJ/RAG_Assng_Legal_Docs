@@ -1,5 +1,5 @@
-# Legal Document RAG Pipeline with ROUGE / BLEU / RAGAS Evaluation
-This project demonstrates an end-to-end Retrieval-Augmented Generation (RAG) pipeline for answering questions over legal documents (e.g., NDAs, acquisition agreements, privacy policies). It includes document preprocessing, chunking, vector storage, open-source LLM inference, reranking, and RAG evaluation using ROUGE, BLEU, and RAGAS.
+# Legal Document RAG Pipeline with ROUGE / BLEU scores Evaluation
+This project demonstrates an end-to-end Retrieval-Augmented Generation (RAG) pipeline for answering questions over legal documents (e.g., NDAs, acquisition agreements, privacy policies). It includes document preprocessing, chunking, vector storage, open-source LLM inference, reranking, and RAG evaluation using ROUGE and BLEU scores.
 
 # Features
 
